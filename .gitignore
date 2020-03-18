@@ -1,3 +1,6 @@
+src/main/resources/*-ubyte
+build/*
+.gradle/*
 # Compiled class file
 *.class
 
